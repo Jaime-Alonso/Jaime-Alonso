@@ -13,7 +13,7 @@
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jaime-Alonso&theme=tokyonight&hide_border=true" />  
 </p>
 <p align="center">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaime-Alonso&theme=tokyonight" />    
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaime-Alonso&theme=tokyonight&langs_count=8" />    
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Jaime-Alonso&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 <p align="center">
